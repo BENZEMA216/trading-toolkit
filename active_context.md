@@ -6,6 +6,8 @@
 - v0.1.0 已推送 GitHub (2026-03-12)
 - `/trading` skill 已安装本地
 - README + workflow docs 完成
+- 全部 5 个 repo GitHub topics 已补齐
+- benzema216-council PyPI 包已构建 (dist/)，待用户提供 token 发布
 
 ## 包含工具
 1. stock-analyst — 盘前五大指标
@@ -14,5 +16,5 @@
 4. tradingcoach — 交易复盘
 
 ## 待办
-- 无当前阻塞项
+- [ ] PyPI 发布 benzema216-council (需用户 pypi token)
 
